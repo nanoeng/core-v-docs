@@ -10,7 +10,7 @@ verified; the success criteria of the feature and the coverage metrics
 for testing the feature. At the time of this writing the verification
 plan for the CV32E40P is under active development. It is located in the
 core-v-verif GitHub repository at
-https://github.com/openhwgroup/core-v-docs/tree/master/verif/CV32E40P/VerificationPlan.
+https://github.com/openhwgroup/core-v-docs/tree/master/verif/CV32E40P/
 
 The Verification Strategy (this document) exists to support the
 Verification Plan. A trivial example illustrates this point: the
